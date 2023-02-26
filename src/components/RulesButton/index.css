@@ -1,0 +1,34 @@
+/* .rules-btn {
+  background-color: white;
+  color: #223a5f;
+  padding: 10px 25px;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 7px;
+  align-self: flex-end;
+  border: none;
+  outline: none;
+  margin-right: 10%;
+  cursor: pointer;
+} */
+.modal-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.modal-image-rules {
+  width: 90%;
+  margin-bottom: 20px;
+}
+.trigger-button {
+  align-self: flex-end;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.close-modal-btn {
+  height: 20px;
+  align-self: flex-end;
+}
